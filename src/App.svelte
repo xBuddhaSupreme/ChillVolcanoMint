@@ -13,10 +13,10 @@
 
   /***********************************/
   // Customise the app by changing the following variables.
-  const TITLE = "Shapes";
-  const DESCRTIPTION = "A collection of shapes on the blockchain";
-  const HEADER_TITLE = "";
-  const HEADER_LINK = "";
+  const TITLE = "Chill Volcano";
+  const DESCRTIPTION = "4,444 of the Chillest NFTs ready to EXPLODE on the Solana blockchain!";
+  const HEADER_TITLE = "Chill Volcano";
+  const HEADER_LINK = "http://ChillVolcano.com";
   // Your image or GIF needs to be in the /public folder for this to work
   const IMAGE_LINK = "/example.gif";
   /***********************************/
