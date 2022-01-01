@@ -16,7 +16,7 @@
   const TITLE = "Chill Volcano";
   const DESCRTIPTION = "4,444 of the Chillest NFTs ready to EXPLODE on the Solana blockchain!";
   const HEADER_TITLE = "Chill Volcano";
-  const HEADER_LINK = "http://ChillVolcano.com";
+  const HEADER_LINK = "https://discord.com/invite/BJ39mSXhN9";
   // Your image or GIF needs to be in the /public folder for this to work
   const IMAGE_LINK = "/example.gif";
   /***********************************/
