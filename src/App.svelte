@@ -190,7 +190,7 @@
     {#if HEADER_TITLE}
       <a
         href={HEADER_LINK}
-        class="text-black-400 tracking-widest underline underline-offset-4 decoration-2 font-bold"
+        class="text-lg-black-1000 tracking-widest underline underline-offset-4 decoration-2 font-bold"
         >{HEADER_TITLE}</a
       >
     {/if}
